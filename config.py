@@ -1,2 +1,2 @@
-WEATHER_API = "<your-api-key-here>"
-CURRENCY_API = "<your-api-key-here>"
+WEATHER_API = "69c73c9f2e007cb7b081fd189f09b039"
+CURRENCY_API = "<416a5975c77241a4bd661971afd8a723>"
